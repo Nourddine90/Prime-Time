@@ -1,0 +1,79 @@
+{
+  "name": "زمن النجاح",
+  "short_name": "زمن النجاح",
+  "description": "تطبيق لإدارة الوقت والمهام لتحقيق النجاح",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/Time-of-success/",
+  "scope": "/Time-of-success/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait-primary",
+  "background_color": "#0a0c10",
+  "theme_color": "#FFD966",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "72x72",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "144x144",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "152x152",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "384x384",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "المهام اليومية",
+      "short_name": "مهام",
+      "description": "عرض وإدارة مهامك اليومية",
+      "url": "/Time-of-success/?source=homescreen",
+      "icons": [
+        {
+          "src": "https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4c8.svg",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
